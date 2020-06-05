@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Information Table</title>
+    </head>
+    <body>
+    <table>
+    <tr>
+    <th>First Name:</th>
+    <th>Last Name:</th>
+    <th>Gender:</th>
+    </tr>
+    <tr>
+    <td>Maria</td>
+    <td>Davis</td>
+    <td>Female</td>
+    </tr>
+    <tr>
+    <td>John</td>
+    <td>Green</td>
+    <td>Male</td>
+    </tr>
+    <tr>
+    <td>Jennifer</td>
+    <td>Fleur</td>
+    <td>Female</td>
+    </tr>
+    <style>
+        table {
+      border: 3px solid black;
+      border-collapse: collapse;
+    }
+        th, td {
+      border: 2px solid black;
+    }
+  </style>
+    </table>
