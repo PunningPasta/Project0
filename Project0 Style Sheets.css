@@ -1,17 +1,18 @@
-    .header
-    {
-      width: 50%;
-      height: 50%;
-      display: serif #000000;
-      float: left;
-      margin: 0 auto;
-    }
-    body {
-      background: #DB6B09;
-    }
-table {
-  float: none;
-  background-color: white
-  text color: black
-  text size: 18px
+.header
+{
+  width: 50%;
+  height: 50%;
+  display: sans-serif;
+  float: left;
+  margin: 0 auto;
+}
+
+.table {
+text size: 18px;
+text color: black;
+background-color: #C7F6ED;
+}
+
+body {
+background-color: #A8ECDF;
 }
