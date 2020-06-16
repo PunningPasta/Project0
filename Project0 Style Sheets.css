@@ -14,5 +14,20 @@ background-color: #C7F6ED;
 }
 
 body {
-background-color: #A8ECDF;
+background: #ADF0E3;
+font-family: sans-serif;
+
+}
+
+#Picture {
+  style = display: block;
+  height: 300px; width: 400px;
+  style=display: block;
+}
+
+button{
+  background-color: lightblue;
+}
+button:hover{
+  background-color: orange;
 }

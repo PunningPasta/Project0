@@ -1,0 +1,25 @@
+.success {
+  background-color: green;
+}
+
+.warning {
+  background-color: orange;
+}
+
+.error {
+  background-color: #F35451;
+}
+
+div {
+  font-size: 18px;
+}
+
+p {
+  color: black;
+}
+
+ul {
+  color: black;
+}
+
+/*# sourceMappingURL=Inheritance.css.map */
